@@ -1,14 +1,13 @@
-# Contributing to [Project]
+# Contributing to Open Data Week 2018 Open Call for Submissions
 
-Add a bit of welcome and cheer at the top
->Thank you for your interest in contributing to [Project] :tada:! 
+>Thank you for your interest in contributing to this project :tada:! 
 
-Restart your project vision here. Redundancy is your friend
->[Project] is ...
 
-Add some info on *why* people should read your contributor guidelines and *what* they are.
+>In NYC we say that NYC Open Data is for All. You can learn more about NYC's Open Data Program at: www.nyc.gov/opendata
 
->This documents is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+NYC Open Data is a platform run by the City of New York containing nearly 2,000 data assets published by City Agencies - from street tree data, to 311 service requests to traffic speeds - we’re putting information on how the City runs back in the hands of New Yorkers. Visit it at www.nyc.gov/opendata. To raise awareness about this resource the NYC Open Data Team partnered with the civic technology community to produce Open Data Week 2017 which engaged over 900 New Yorkers! We’re now asking for submissions of ideas for Open Data Week 2018 and hope we'll get lots of new ideas. What I'd love help with is having folks propose edits to the copy and drop-downs in the submission form - I want to make sure this is a useful open process and tool!
+
+>This documents is a set of guidelines for contributing to the Open Data Week 2018 Open Call for Submissions Project on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
 If your guide is long, consider adding a table of contents.
 
@@ -20,21 +19,20 @@ If your guide is long, consider adding a table of contents.
 
 ## Participation guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to aschmoeker@analytics.nyc.gov.
 
 ## What we're working on
 
-This is a good place to link your Roadmap, GitHub Milestones, or Projects so newcomers can see what you're working on.
+To see how Open Data Week 2017 went see these resources:
 
-> Take a look at the issues in our [current milestone](https://github.com/acabunoc/mozfest-repo-template/milestone/1) or browse some [good first bugs](https://github.com/acabunoc/mozfest-repo-template/labels/good%20first%20bug) to get started!
-
-Take a look at this [Roadmapping exercise](http://mozillascience.github.io/working-open-workshop/roadmapping/) to start making your own milestones and issues. This will help newcomers (& MozFest attendees!) know where they can help.
+Website for 2017: www.open-data.nyc
+Recap of Open Data Week 2017 on the NYC Open Data Blog: https://nycopendata.tumblr.com/post/158936520570/isnt-celebrating-fun
 
 ## How to submit changes
 
-Explain how you want contributors to propose changes. For an example GitHub workflow, see Node.js's [instructions for code contributions](https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-contributions).
+I am looking for edits to the copy in the submission form (a google form) for the Open Data Week 2018 Open Submissions process. The live google form is here: bit.ly/ODW18 . The copy for the form is in a file in the repo for this project. 
 
-> Once you've identified one of the issues above that you feel you can contribute to, you're ready to make a change to the project repository!
+> Once you've identified a way to improve the copy or a submission question in the google form, you're ready to make a change to the project repository!
  
 > 1. **[Fork](https://help.github.com/articles/fork-a-repo/) this repository**. This makes your own version of this project you can edit and use.
 > 2. **[Make your changes](https://guides.github.com/activities/forking/#making-changes)**! You can do this in the GitHub interface on your own local machine. Once you're happy with your changes...
@@ -52,5 +50,5 @@ Most projects invite all contributors to report bugs, so "debugging" or fixing p
 
 ## Communication channels
 
-Do you have a chat room or email list you use to discuss this project? List them all here! Provide clear contact info, and outline the process for getting in touch, for anyone with questions.
+The best way to get in touch with me is via email: aschmoeker@analytics.nyc.gov. I'll be responding to this message M-F, 9:30am - 6pm EST most days!
 
