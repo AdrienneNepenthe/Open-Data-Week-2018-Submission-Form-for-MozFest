@@ -1,22 +1,20 @@
-# [ Project ]
+# Open Data Week 2018 Open Call for Submissions
 
-[ Project vision or mission statement. [Tips on writing your vision](https://acabunoc.github.io/mozfest-open-projects-2016/articles/vision/).]
+Vision: NYC Open Data for All!
 
-[ If you have one, add your logo or an image here ]
-
-[ Your longer project description goes here. Use this space to welcome newcomers, articulate the problem you're trying to solve, and explain your solution. For help on writing a good readme, see [this exercise](http://mozillascience.github.io/working-open-workshop/writing_readme/). ]
+NYC Open Data is a platform run by the City of New York containing nearly 2,000 data assets published by City Agencies - from street tree data, to 311 service requests to traffic speeds - we’re putting information on how the City runs back in the hands of New Yorkers. Visit it at www.nyc.gov/opendata. To raise awareness about this resource the NYC Open Data Team partnered with the civic technology community to produce Open Data Week 2017 which engaged over 900 New Yorkers! We’re now asking for submissions of ideas for Open Data Week 2018 and hope we'll get lots of new ideas. What I'd love help with is having folks propose edits to the copy and drop-downs in the submission form - I want to make sure this is a useful open process and tool!
 
 ## Getting Started
 
-[ Use this section to orient newcomers to your project on how to use it. Installation or download instructions? Viewing instructions? Example code snippet? Add them here! ]
+Please take a look at the Open Data Week 2018 Open Call for Submissions form which you can find here: bit.ly/ODW18  I'm looking for proposed edits to the copy (or to the form questions themselves!) to make sure that (1) people who want to submit an event / engagement for Open Data Week 2018 understand key details about the initiative and how to submit (2) the submission process is straightfoward and easy.
 
 ## Contributing
 
-Thanks for your interest in contributing to [PROJECT]! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+Thanks for your interest in contributing to Open Data Week 2018 Open Call for Submissions! There are many ways to contribute. To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Participation Guidelines
 
-This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to aschmoeker@analytics.nyc.gov.
 
 ## MozFest
 
