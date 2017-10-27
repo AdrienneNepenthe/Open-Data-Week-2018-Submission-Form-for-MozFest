@@ -18,6 +18,7 @@ This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participatin
 To see how Open Data Week 2017 went see these resources:
 
 Website for 2017: www.open-data.nyc
+
 Recap of Open Data Week 2017 on the NYC Open Data Blog: https://nycopendata.tumblr.com/post/158936520570/isnt-celebrating-fun
 
 ## How to submit changes
