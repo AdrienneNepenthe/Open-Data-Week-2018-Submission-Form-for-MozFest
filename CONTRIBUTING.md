@@ -23,7 +23,7 @@ Recap of Open Data Week 2017 on the NYC Open Data Blog: https://nycopendata.tumb
 
 ## How to submit changes
 
-I am looking for edits to the copy in the submission form (a google form) for the Open Data Week 2018 Open Submissions process. The live google form is here: bit.ly/ODW18 . The copy for the form is in a file in the repo for this project. 
+I am looking for edits to the copy in the submission form (a google form) for the Open Data Week 2018 Open Submissions process. The live google form is here: bit.ly/ODW18 . The copy for the form is in a file in the repo for this project under the name SUBMISSION FORM COPY. 
 
 Once you've identified a way to improve the copy or a submission question in the google form, you're ready to make a change to the project repository!
  
