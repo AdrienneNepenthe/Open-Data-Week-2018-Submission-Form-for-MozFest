@@ -2,7 +2,7 @@
 
 Vision: NYC Open Data for All!
 
-NYC Open Data is a platform run by the City of New York containing nearly 2,000 data assets published by City Agencies - from street tree data, to 311 service requests to traffic speeds - we’re putting information on how the City runs back in the hands of New Yorkers. Visit it at www.nyc.gov/opendata. To raise awareness about this resource the NYC Open Data Team partnered with the civic technology community to produce Open Data Week 2017 which engaged over 900 New Yorkers! We’re now asking for submissions of ideas for Open Data Week 2018 and hope we'll get lots of new ideas. What I'd love help with is having folks propose edits to the copy and drop-downs in the submission form - I want to make sure this is a useful open process and tool!
+NYC Open Data is a platform run by the City of New York containing nearly 2,000 data assets published by City Agencies - from street tree data, to 311 service requests to traffic speeds - we’re putting information on how the City runs back in the hands of New Yorkers. Visit it at www.nyc.gov/opendata. To raise awareness about this resource the NYC Open Data Team partnered with the civic technology community to produce Open Data Week 2017 which engaged over 900 New Yorkers! We’re now asking for submissions of ideas for Open Data Week 2018 and hope we'll get lots of new ideas. What I'd love help with is having folks propose edits to the submission form copy - I want to make sure this is a useful open process and tool!
 
 ## Getting Started
 
