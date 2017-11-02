@@ -33,12 +33,6 @@ Once you've identified a way to improve the copy or a submission question in the
 
 > First time contributing to open source? Check out this *free* series, [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github).
 
-## How to report bugs
-
-Ask your contributors to stay on the lookout for can any potential issue that might cause problems for the project. These could be problems in code (if you’re creating software), content omissions or copy errors (if you’re creating a learning resource), or any issues with the functionality or design of your project. 
-
-Most projects invite all contributors to report bugs, so "debugging" or fixing problems happens quickly and with the input of the community. Take a look at [Atom's example](https://github.com/atom/atom/blob/master/CONTRIBUTING.md#reporting-bugs) for how to teach people to report bugs to your project.
-
 ## Communication channels
 
 The best way to get in touch with me is via email: aschmoeker@analytics.nyc.gov. I'll be responding to this message M-F, 9:30am - 6pm EST most days!
